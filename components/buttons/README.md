@@ -1,4 +1,4 @@
-# [Home](/) / [Components](../) / Buttons
+# [Home](../../) / [Components](../) / Buttons
 
 ## Next Best Action (NBA)
 
