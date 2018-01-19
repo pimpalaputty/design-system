@@ -1,4 +1,4 @@
-# Components / Buttons
+# [Components](../) / Buttons
 
 ## Next Best Action (NBA)
 
