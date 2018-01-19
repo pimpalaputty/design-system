@@ -4,8 +4,8 @@
 
 Best buttons ever 💪
 
-| State    |                Image                 |
-| -------- | :----------------------------------: |
-| Normal   |     ![nba-green](nba-green.png)      |
-| Pressed  | ![nba-green](nba-green-pressed.png)  |
-| Disabled | ![nba-green](nba-green-disabled.png) |
+| State    |                  Image                   |
+| -------- | :--------------------------------------: |
+| Normal   |       ![nba-green](nba-green.png)        |
+| Pressed  | ![nba-green-pressed](nba-green-pressed.png) |
+| Disabled | ![nba-green-disabled](nba-green-disabled.png) |

@@ -5,6 +5,11 @@
 - [Buttons](./components/buttons)
 - etc.
 
+## [Functions](./functions)
+
+- [Send money](./functions/send-money)
+- etc.
+
 ## How to edit this page
 
 You can use the [editor on GitHub](https://github.com/pimpalaputty/design-system/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
