@@ -10,7 +10,7 @@ Best function ever 🦄
 
 #### Components
 
-- [NBA](/components/buttons#next-best-action-nba)
+- [NBA](../../components/buttons#next-best-action-nba)
 - Text field
 - etc.
 
